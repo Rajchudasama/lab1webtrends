@@ -1,5 +1,6 @@
 var num:number = 10;
 var names:string[] = ["lee","bernie","sean"];
+const PI=3.14;
 function multiply(num:number):number{
     return num*2;
 }
@@ -28,3 +29,4 @@ function forofdemo():void{
         console.log(number);
     }
 }
+

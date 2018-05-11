@@ -1,5 +1,6 @@
 var num = 10;
 var names = ["lee", "bernie", "sean"];
+var PI = 3.14;
 function multiply(num) {
     return num * 2;
 }
