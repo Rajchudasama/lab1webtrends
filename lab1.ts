@@ -29,4 +29,5 @@ function forofdemo():void{
         console.log(number);
     }
 }
+var demoarrow = ()=>console.log("arrow function");
 

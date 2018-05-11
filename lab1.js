@@ -29,3 +29,4 @@ function forofdemo() {
         console.log(number);
     }
 }
+var demoarrow = function () { return console.log("arrow function"); };
