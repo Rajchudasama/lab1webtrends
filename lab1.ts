@@ -13,3 +13,11 @@ function loopcheck():void{
     }
     console.log(i);
 }
+function letcheck():void{
+    let x:number=10;
+    if(true){
+        let x:number=20;
+        console.log(x);
+    }
+    console.log(x);
+}

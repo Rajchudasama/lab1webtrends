@@ -12,3 +12,11 @@ function loopcheck() {
     }
     console.log(i);
 }
+function letcheck() {
+    var x = 10;
+    if (true) {
+        var x_1 = 20;
+        console.log(x_1);
+    }
+    console.log(x);
+}
