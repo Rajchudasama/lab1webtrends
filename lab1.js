@@ -1,4 +1,5 @@
 var num = 10;
+var names = ["lee", "bernie", "sean"];
 function multiply(num) {
     return num * 2;
 }

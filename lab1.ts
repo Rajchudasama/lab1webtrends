@@ -1,4 +1,5 @@
 var num:number = 10;
+var names:string[] = ["lee","bernie","sean"];
 function multiply(num:number):number{
     return num*2;
 }
