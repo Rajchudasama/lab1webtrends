@@ -21,3 +21,9 @@ function letcheck():void{
     }
     console.log(x);
 }
+function forofdemo():void{
+    let num:number[] = [10,11,12];
+    for (let number of num) {
+        console.log(number);
+    }
+}

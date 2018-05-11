@@ -20,3 +20,10 @@ function letcheck() {
     }
     console.log(x);
 }
+function forofdemo() {
+    var num = [10, 11, 12];
+    for (var _i = 0, num_1 = num; _i < num_1.length; _i++) {
+        var number = num_1[_i];
+        console.log(number);
+    }
+}
